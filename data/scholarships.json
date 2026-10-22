@@ -1,0 +1,32 @@
+[
+  {
+    "scholarship_id":"BE001",
+    "name":"Kartu Indonesia Pintar Kuliah (KIP Kuliah)",
+    "provider":"Pemerintah",
+    "summary":"Program bantuan pendidikan tinggi bagi calon mahasiswa yang memenuhi persyaratan program.",
+    "audience":"Calon mahasiswa yang memenuhi ketentuan sosial-ekonomi dan akademik pada panduan resmi.",
+    "official_url":"https://kip-kuliah.kemdiktisaintek.go.id/",
+    "source_checked_on":"2026-10-22",
+    "status_note":"Persyaratan, kampus/program penerima, dan tanggal pendaftaran harus diperiksa pada panduan tahun berjalan."
+  },
+  {
+    "scholarship_id":"BE002",
+    "name":"TELADAN — Tanoto Foundation",
+    "provider":"Swasta / Yayasan",
+    "summary":"Program pengembangan kepemimpinan untuk mahasiswa S1 di perguruan tinggi mitra, dengan dukungan pendidikan sesuai ketentuan program.",
+    "audience":"Mahasiswa semester awal di universitas mitra yang memenuhi kriteria program.",
+    "official_url":"https://www.tanotofoundation.org/teladan-2027/",
+    "source_checked_on":"2026-10-22",
+    "status_note":"Periode dan daftar kampus mitra berubah menurut angkatan. Cek halaman resmi sebelum mendaftar."
+  },
+  {
+    "scholarship_id":"BE003",
+    "name":"Djarum Beasiswa Plus",
+    "provider":"Swasta / Yayasan",
+    "summary":"Program beasiswa dan pengembangan soft skills bagi mahasiswa yang memenuhi ketentuan penyelenggara.",
+    "audience":"Mahasiswa perguruan tinggi mitra dengan kriteria akademik dan administrasi sesuai periode pendaftaran.",
+    "official_url":"https://djarumbeasiswaplus.org/",
+    "source_checked_on":"2026-10-22",
+    "status_note":"Persyaratan, universitas mitra, jadwal, dan kuota harus dicek pada situs penyelenggara."
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "title":"A systematic literature review on educational recommender systems for teaching and learning: research trends, limitations and opportunities",
+    "authors":"Felipe Leite da Silva, Bruna Kin Slodkowski, Ketia Kellen Araújo da Silva, Sílvio César Cazella",
+    "year":"2023",
+    "publication":"Education and Information Technologies, 28, 3289–3328",
+    "doi":"10.1007/s10639-022-11341-9",
+    "url":"https://pmc.ncbi.nlm.nih.gov/articles/PMC9472736/",
+    "use":"Landasan evaluasi recommender pendidikan dan keterbatasan evaluasi yang hanya mengukur akurasi."
+  },
+  {
+    "title":"Recommender systems to support learners’ Agency in a Learning Context: a systematic review",
+    "authors":"Michelle Deschênes",
+    "year":"2020",
+    "publication":"International Journal of Educational Technology in Higher Education, 17, 50",
+    "doi":"10.1186/s41239-020-00219-w",
+    "url":"https://link.springer.com/article/10.1186/s41239-020-00219-w",
+    "use":"Landasan untuk mempertahankan kendali pengguna dan mendukung eksplorasi, bukan menggantikan keputusan pengguna."
+  },
+  {
+    "title":"Recommender System in Academic Choices of Higher Education: A Systematic Review",
+    "authors":"Artikel pada IEEE Access",
+    "year":"2024",
+    "publication":"IEEE Access, Volume 12, halaman 35475–35501",
+    "doi":"10.1109/ACCESS.2024.3368058",
+    "url":"https://ieeexplore.ieee.org/document/10444757/",
+    "use":"Tinjauan tentang sistem rekomendasi untuk pilihan akademik di pendidikan tinggi dan pendekatan evaluasi."
+  }
+]
